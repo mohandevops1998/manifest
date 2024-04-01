@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: mohandevops1998/paytmmovies:latest
+        image: mohandevops1998/paytmdth:latest
         ports:
           - containerPort: 80
 ---
